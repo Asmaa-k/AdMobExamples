@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdsExamples</string>
+    <string name="impossible_game">Impossible Game</string>
+    <string name="retry_button_text">Retry</string>
+    <string name="watch_video_button_text">Watch Video for additional coins</string>
+    <string name="default_coin_text">Coins: 0</string>
+    <string name="default_coin_text_format">Coins: %d</string>
+</resources>
